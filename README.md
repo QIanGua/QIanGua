@@ -1,5 +1,12 @@
 # Hi, I'm QIanGua 👋
 
+<!-- 
+💡 **Tip**: This README is a template. Customize it with your own information:
+- Update your location, role, and tech stack badges
+- Add your actual projects, links, and social media handles
+- Personalize the bio, philosophy, and "More About Me" sections
+-->
+
 📍 **Location** | 🚀 **Developer** | 💻 **Tech Enthusiast**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -54,6 +61,7 @@
 
 ## Connect
 
+<!-- Update with your actual social media handles and email -->
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/QIanGua)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
