@@ -18,6 +18,7 @@
 
 - 📸 **[SyncVision](https://github.com/QIanGua/SyncVision)** - Camera media backup tool designed for Sony Alpha users, with modern UI and production-grade data safety
 - ⚡ **[uvs](https://github.com/QIanGua/uvs)** - Auto-inject PEP 723 inline script metadata so Python scripts just work with `uv run`
+- 🤖 **[nanocc](https://github.com/QIanGua/nanocc)** - Minimal Claude Code core implementation with tool use and multi-turn agent loop
 - ⌨️ **[KarabinerPyX](https://github.com/QIanGua/KarabinerPyX)** - Python DSL for declarative, safe, and powerful Karabiner-Elements configuration
 - 🌊 **[DASMatrix](https://github.com/QIanGua/DASMatrix)** - High-performance framework for Distributed Acoustic Sensing data processing and analysis
 - 🎨 **[gemini-slidev-extension](https://github.com/QIanGua/gemini-slidev-extension)** - Gemini CLI extension for creating and managing Slidev presentations
