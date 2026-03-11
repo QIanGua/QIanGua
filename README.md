@@ -16,6 +16,7 @@
 
 ## Current Projects
 
+- ⚛️ **[agent-vqe](https://github.com/QIanGua/agent-vqe)** - AI agent framework for automatically exploring quantum circuit structures (Ansatz) to approximate ground state energies using VQE
 - 📸 **[SyncVision](https://github.com/QIanGua/SyncVision)** - Camera media backup tool designed for Sony Alpha users, with modern UI and production-grade data safety
 - ⚡ **[uvs](https://github.com/QIanGua/uvs)** - Auto-inject PEP 723 inline script metadata so Python scripts just work with `uv run`
 - 🤖 **[nanocc](https://github.com/QIanGua/nanocc)** - Minimal Claude Code core implementation with tool use and multi-turn agent loop
